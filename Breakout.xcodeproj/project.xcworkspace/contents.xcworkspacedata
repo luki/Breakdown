@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Breakdown.xcodeproj">
+      location = "self:/Users/lukas/Desktop/Breakdown/Breakout.xcodeproj">
    </FileRef>
 </Workspace>
